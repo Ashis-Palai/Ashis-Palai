@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Ashis-Palai
+- 👋 Hi, I’m @Ashis-Palai, actively learning and implementing Generative AI, including multi-modal LLMs.
 - 👀 I’m interested in AI using Data Science Technologies and Algorithms like ML & DL.
-- 🌱 I’m currently learning DL, NLP, and Computer Vision to get involved in real-life problem-solving processes.
-- 💞️ I’m looking to collaborate on any interesting topic in the AI/DL/ML field which can help me to gather and share new ideas and knowledge.
-- 📫 Reach me on https://www.linkedin.com/in/ashis-palai-21b191b5/
-
-<!---
-Ashis-Palai/Ashis-Palai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently delving into DL, NLP, and Computer Vision, and exploring multi-modal LLMs to actively contribute to real-life problem-solving processes.
+- 💞️ I’m looking to collaborate on any intriguing topic in the AI/DL/ML field that can further my understanding, especially in multi-modal LLMs, and allow me to exchange ideas and knowledge.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ashis-palai-21b191b5/).
