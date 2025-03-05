@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ashis-Palai, actively learning and implementing Generative AI, including multi-modal LLMs.
-- 👀 I’m interested in AI using Data Science Technologies and Algorithms like ML & DL.
-- 🌱 I’m currently delving into DL, NLP, and Computer Vision, and exploring multi-modal LLMs to actively contribute to real-life problem-solving processes.
-- 💞️ I’m looking to collaborate on any intriguing topic in the AI/DL/ML field that can further my understanding, especially in multi-modal LLMs, and allow me to exchange ideas and knowledge.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ashis-palai-21b191b5/).
+👋 Hi, I’m @Ashis-Palai, transitioning into Cybersecurity with a focus on Malware Analysis and AI-driven security solutions.
+🔍 My interests lie in leveraging AI, Machine Learning (ML), Deep Learning (DL), and Data Science to enhance cybersecurity, threat detection, and malware analysis.
+🛡️ Currently, I’m exploring Generative AI, NLP, multi-modal LLMs to develop AI-specific cybersecurity solutions. Additionally, I’m pursuing a Master program in Cybersecurity and working toward CEH v13 certification.
+🤝 I’m open to collaborations on AI-driven cybersecurity, malware detection, and ethical hacking projects to deepen my expertise and exchange knowledge.
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ashis-palai-21b191b5/).
