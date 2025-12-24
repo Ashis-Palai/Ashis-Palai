@@ -1,10 +1,9 @@
-Hi, I’m @Ashis-Palai — passionate about building AI-driven solutions that solve real-world challenges across diverse domains.
+Hi, I’m @Ashis-Palai — Focused on Cloud Security, Threat Hunting, and Cloud Threat Investigation.
+🧠 I work on AI-assisted security workflows that help investigate and correlate attacker behavior across cloud control plane, network, and workload telemetry, using MITRE ATT&CK to reconstruct end-to-end attack chains beyond traditional rule-based detections.
 
-🧠 I specialize in applying Generative AI and LLM-based architectures to create impactful tools in areas like cybersecurity, healthcare, and enterprise automation. My current focus includes automating cyber threat intelligence workflows and enhancing defensive security strategies using AI.
+🎓 Cloud-native security monitoring, detection engineering, synthetic attack simulation, and investigation tooling, with an emphasis on understanding how adversaries operate in AWS ,Azure and GCP environments.
 
-🎓 I’m also pursuing a Master’s in Cybersecurity and working towards various security certification, while continuing to explore how agentic AI can power smarter, adaptive security frameworks.
-
-🤝 Always open to collaborating on GenAI-centric projects—be it in security, healthcare, or intelligent search systems—where AI can truly enhance outcomes and create scalable solutions.
+🤝 Always Open to collaborating on cloud security, threat hunting, and detection research projects where AI can truly enhance outcomes and create scalable solutions.
 
 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/ashis-palai-21b191b5/)
 
