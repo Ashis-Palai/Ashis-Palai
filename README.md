@@ -5,5 +5,5 @@ Hi, I’m @Ashis-Palai — Focused on Cloud Security, Threat Hunting, and Cloud 
 
 🤝 Always Open to collaborating on cloud security, threat hunting, and detection research projects where AI can truly enhance outcomes and create scalable solutions.
 
-📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/ashis-palai-21b191b5/)
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/ashis-palai/)
 
